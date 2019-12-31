@@ -1,4 +1,4 @@
-## IT READS YOUR FACE BOI
+## MoodTunes 
 
 ## Inspiration
 Have you ever watched that scene in the movie where the guy brings a girl home, goes over to the stereo and turns on smooth jazz… Now he just needs to give the camera "that look" ;) and AI takes care of the rest.
